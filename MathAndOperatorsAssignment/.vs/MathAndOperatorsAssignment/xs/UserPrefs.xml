@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{796B47A7-F4AD-4C91-9BA8-E2184EACB457}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MathAndOperatorsAssignment/Program.cs">
+    <Files>
+      <File FileName="MathAndOperatorsAssignment/Program.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MathAndOperatorsAssignment" expanded="True">
+            <Node name="MathAndOperatorsAssignment" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MathAndOperatorsAssignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
