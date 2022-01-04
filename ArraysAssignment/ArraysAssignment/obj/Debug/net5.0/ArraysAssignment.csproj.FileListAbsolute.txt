@@ -1,0 +1,15 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/ArraysAssignment/ArraysAssignment/bin/Debug/net5.0/ArraysAssignment.deps.json
+/Users/josephcolon/Documents/GitHub/C-Unity/ArraysAssignment/ArraysAssignment/bin/Debug/net5.0/ArraysAssignment.runtimeconfig.json
+/Users/josephcolon/Documents/GitHub/C-Unity/ArraysAssignment/ArraysAssignment/bin/Debug/net5.0/ArraysAssignment.runtimeconfig.dev.json
+/Users/josephcolon/Documents/GitHub/C-Unity/ArraysAssignment/ArraysAssignment/bin/Debug/net5.0/ArraysAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ArraysAssignment/ArraysAssignment/bin/Debug/net5.0/ref/ArraysAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ArraysAssignment/ArraysAssignment/bin/Debug/net5.0/ArraysAssignment.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/ArraysAssignment/ArraysAssignment/obj/Debug/net5.0/ArraysAssignment.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/ArraysAssignment/ArraysAssignment/obj/Debug/net5.0/ArraysAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/ArraysAssignment/ArraysAssignment/obj/Debug/net5.0/ArraysAssignment.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/ArraysAssignment/ArraysAssignment/obj/Debug/net5.0/ArraysAssignment.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/ArraysAssignment/ArraysAssignment/obj/Debug/net5.0/ArraysAssignment.csproj.CoreCompileInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/ArraysAssignment/ArraysAssignment/obj/Debug/net5.0/ArraysAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ArraysAssignment/ArraysAssignment/obj/Debug/net5.0/ref/ArraysAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ArraysAssignment/ArraysAssignment/obj/Debug/net5.0/ArraysAssignment.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/ArraysAssignment/ArraysAssignment/obj/Debug/net5.0/ArraysAssignment.genruntimeconfig.cache
