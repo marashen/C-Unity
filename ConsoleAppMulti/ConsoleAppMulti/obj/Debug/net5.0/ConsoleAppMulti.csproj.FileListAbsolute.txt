@@ -1,0 +1,15 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppMulti/ConsoleAppMulti/obj/Debug/net5.0/ConsoleAppMulti.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppMulti/ConsoleAppMulti/obj/Debug/net5.0/ConsoleAppMulti.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppMulti/ConsoleAppMulti/obj/Debug/net5.0/ConsoleAppMulti.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppMulti/ConsoleAppMulti/obj/Debug/net5.0/ConsoleAppMulti.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppMulti/ConsoleAppMulti/obj/Debug/net5.0/ConsoleAppMulti.csproj.CoreCompileInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppMulti/ConsoleAppMulti/bin/Debug/net5.0/ConsoleAppMulti.deps.json
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppMulti/ConsoleAppMulti/bin/Debug/net5.0/ConsoleAppMulti.runtimeconfig.json
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppMulti/ConsoleAppMulti/bin/Debug/net5.0/ConsoleAppMulti.runtimeconfig.dev.json
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppMulti/ConsoleAppMulti/bin/Debug/net5.0/ConsoleAppMulti.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppMulti/ConsoleAppMulti/bin/Debug/net5.0/ref/ConsoleAppMulti.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppMulti/ConsoleAppMulti/bin/Debug/net5.0/ConsoleAppMulti.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppMulti/ConsoleAppMulti/obj/Debug/net5.0/ConsoleAppMulti.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppMulti/ConsoleAppMulti/obj/Debug/net5.0/ref/ConsoleAppMulti.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppMulti/ConsoleAppMulti/obj/Debug/net5.0/ConsoleAppMulti.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppMulti/ConsoleAppMulti/obj/Debug/net5.0/ConsoleAppMulti.genruntimeconfig.cache

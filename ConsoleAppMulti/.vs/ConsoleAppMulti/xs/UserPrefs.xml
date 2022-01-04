@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{14B02FAF-1CCA-442C-B28A-096238CA6EA2}|Default">
-  <MonoDevelop.Ide.ItemProperties.ArraysAssignment PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ArraysAssignment/Program.cs">
+﻿<Properties StartupConfiguration="{C3AE78E9-32D2-457C-870F-925F47078462}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleAppMulti FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppMulti/Program.cs">
     <Files>
-      <File FileName="ArraysAssignment/Program.cs" Line="124" Column="39" />
+      <File FileName="ConsoleAppMulti/Program.cs" Line="3" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ArraysAssignment" expanded="True">
-            <Node name="ArraysAssignment" expanded="True">
+          <Node name="ConsoleAppMulti" expanded="True">
+            <Node name="ConsoleAppMulti" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
