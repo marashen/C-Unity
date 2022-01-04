@@ -1,11 +1,20 @@
-﻿Console.WriteLine("The Tech Academy");
+﻿using System;
+
+Console.WriteLine("The Tech Academy");
 Console.WriteLine("The Current Time is " + DateTime.Now);
 Console.WriteLine("Student Daily Report");
 Console.WriteLine("Name?");
+Console.ReadLine();
 Console.WriteLine("Course?");
+Console.ReadLine();
 Console.WriteLine("Page?");
+Console.ReadLine();
 Console.WriteLine("Do you need help?");
+Console.ReadLine();
 Console.WriteLine("Positive experiences?");
+Console.ReadLine();
 Console.WriteLine("Feedback?");
+Console.ReadLine();
 Console.WriteLine("Hours studied?");
+Console.ReadLine();
 Console.WriteLine("Thank you!");

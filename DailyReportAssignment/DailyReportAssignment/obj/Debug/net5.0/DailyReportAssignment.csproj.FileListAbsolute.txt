@@ -1,0 +1,15 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/DailyReportAssignment/DailyReportAssignment/bin/Debug/net5.0/DailyReportAssignment.deps.json
+/Users/josephcolon/Documents/GitHub/C-Unity/DailyReportAssignment/DailyReportAssignment/bin/Debug/net5.0/DailyReportAssignment.runtimeconfig.json
+/Users/josephcolon/Documents/GitHub/C-Unity/DailyReportAssignment/DailyReportAssignment/bin/Debug/net5.0/DailyReportAssignment.runtimeconfig.dev.json
+/Users/josephcolon/Documents/GitHub/C-Unity/DailyReportAssignment/DailyReportAssignment/bin/Debug/net5.0/DailyReportAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/DailyReportAssignment/DailyReportAssignment/bin/Debug/net5.0/ref/DailyReportAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/DailyReportAssignment/DailyReportAssignment/bin/Debug/net5.0/DailyReportAssignment.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/DailyReportAssignment/DailyReportAssignment/obj/Debug/net5.0/DailyReportAssignment.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/DailyReportAssignment/DailyReportAssignment/obj/Debug/net5.0/DailyReportAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/DailyReportAssignment/DailyReportAssignment/obj/Debug/net5.0/DailyReportAssignment.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/DailyReportAssignment/DailyReportAssignment/obj/Debug/net5.0/DailyReportAssignment.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/DailyReportAssignment/DailyReportAssignment/obj/Debug/net5.0/DailyReportAssignment.csproj.CoreCompileInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/DailyReportAssignment/DailyReportAssignment/obj/Debug/net5.0/DailyReportAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/DailyReportAssignment/DailyReportAssignment/obj/Debug/net5.0/ref/DailyReportAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/DailyReportAssignment/DailyReportAssignment/obj/Debug/net5.0/DailyReportAssignment.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/DailyReportAssignment/DailyReportAssignment/obj/Debug/net5.0/DailyReportAssignment.genruntimeconfig.cache
