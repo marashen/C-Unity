@@ -1,0 +1,15 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/BranchingAssignment/BranchingAssignment/obj/Debug/net5.0/BranchingAssignment.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/BranchingAssignment/BranchingAssignment/obj/Debug/net5.0/BranchingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/BranchingAssignment/BranchingAssignment/obj/Debug/net5.0/BranchingAssignment.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/BranchingAssignment/BranchingAssignment/obj/Debug/net5.0/BranchingAssignment.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/BranchingAssignment/BranchingAssignment/obj/Debug/net5.0/BranchingAssignment.csproj.CoreCompileInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/BranchingAssignment/BranchingAssignment/bin/Debug/net5.0/BranchingAssignment.deps.json
+/Users/josephcolon/Documents/GitHub/C-Unity/BranchingAssignment/BranchingAssignment/bin/Debug/net5.0/BranchingAssignment.runtimeconfig.json
+/Users/josephcolon/Documents/GitHub/C-Unity/BranchingAssignment/BranchingAssignment/bin/Debug/net5.0/BranchingAssignment.runtimeconfig.dev.json
+/Users/josephcolon/Documents/GitHub/C-Unity/BranchingAssignment/BranchingAssignment/bin/Debug/net5.0/BranchingAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/BranchingAssignment/BranchingAssignment/bin/Debug/net5.0/ref/BranchingAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/BranchingAssignment/BranchingAssignment/bin/Debug/net5.0/BranchingAssignment.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/BranchingAssignment/BranchingAssignment/obj/Debug/net5.0/BranchingAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/BranchingAssignment/BranchingAssignment/obj/Debug/net5.0/ref/BranchingAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/BranchingAssignment/BranchingAssignment/obj/Debug/net5.0/BranchingAssignment.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/BranchingAssignment/BranchingAssignment/obj/Debug/net5.0/BranchingAssignment.genruntimeconfig.cache

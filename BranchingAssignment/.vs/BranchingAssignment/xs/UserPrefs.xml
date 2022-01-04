@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{226A6323-B2C0-4B71-94A5-BC91BD524C63}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BooleanLogicAssignment/Program.cs">
+﻿<Properties StartupConfiguration="{10C54E10-B3D6-4E74-BBA3-5B73A57FE4C2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BranchingAssignment/Program.cs">
     <Files>
-      <File FileName="BooleanLogicAssignment/Program.cs" Line="14" Column="26" />
+      <File FileName="BranchingAssignment/Program.cs" Line="3" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BooleanLogicAssignment" expanded="True">
-            <Node name="BooleanLogicAssignment" expanded="True">
+          <Node name="BranchingAssignment" expanded="True">
+            <Node name="BranchingAssignment" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.BooleanLogicAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.BranchingAssignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
