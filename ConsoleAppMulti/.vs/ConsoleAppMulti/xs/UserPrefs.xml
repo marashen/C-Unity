@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{C3AE78E9-32D2-457C-870F-925F47078462}|Default">
-  <MonoDevelop.Ide.ItemProperties.ConsoleAppMulti FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleAppMulti PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppMulti/Program.cs">
     <Files>
-      <File FileName="ConsoleAppMulti/Program.cs" Line="3" Column="1" />
+      <File FileName="ConsoleAppMulti/Program.cs" Line="199" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

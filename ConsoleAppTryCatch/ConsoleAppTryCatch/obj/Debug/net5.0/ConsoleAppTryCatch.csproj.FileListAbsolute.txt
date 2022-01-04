@@ -1,0 +1,15 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppTryCatch/ConsoleAppTryCatch/bin/Debug/net5.0/ConsoleAppTryCatch.deps.json
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppTryCatch/ConsoleAppTryCatch/bin/Debug/net5.0/ConsoleAppTryCatch.runtimeconfig.json
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppTryCatch/ConsoleAppTryCatch/bin/Debug/net5.0/ConsoleAppTryCatch.runtimeconfig.dev.json
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppTryCatch/ConsoleAppTryCatch/bin/Debug/net5.0/ConsoleAppTryCatch.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppTryCatch/ConsoleAppTryCatch/bin/Debug/net5.0/ref/ConsoleAppTryCatch.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppTryCatch/ConsoleAppTryCatch/bin/Debug/net5.0/ConsoleAppTryCatch.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppTryCatch/ConsoleAppTryCatch/obj/Debug/net5.0/ConsoleAppTryCatch.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppTryCatch/ConsoleAppTryCatch/obj/Debug/net5.0/ConsoleAppTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppTryCatch/ConsoleAppTryCatch/obj/Debug/net5.0/ConsoleAppTryCatch.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppTryCatch/ConsoleAppTryCatch/obj/Debug/net5.0/ConsoleAppTryCatch.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppTryCatch/ConsoleAppTryCatch/obj/Debug/net5.0/ConsoleAppTryCatch.csproj.CoreCompileInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppTryCatch/ConsoleAppTryCatch/obj/Debug/net5.0/ConsoleAppTryCatch.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppTryCatch/ConsoleAppTryCatch/obj/Debug/net5.0/ref/ConsoleAppTryCatch.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppTryCatch/ConsoleAppTryCatch/obj/Debug/net5.0/ConsoleAppTryCatch.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppTryCatch/ConsoleAppTryCatch/obj/Debug/net5.0/ConsoleAppTryCatch.genruntimeconfig.cache

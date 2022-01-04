@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{290538C8-C379-4E49-A6A4-6B9B84CC751C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DailyReportAssignment/Program.cs">
+﻿<Properties StartupConfiguration="{E8B41EE3-AFC7-42A4-A7ED-73DF220EBE33}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleAppTryCatch FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppTryCatch/Program.cs">
     <Files>
-      <File FileName="DailyReportAssignment/Program.cs" Line="20" Column="33" />
+      <File FileName="ConsoleAppTryCatch/Program.cs" Line="3" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DailyReportAssignment" expanded="True">
-            <Node name="DailyReportAssignment" expanded="True">
+          <Node name="ConsoleAppTryCatch" expanded="True">
+            <Node name="ConsoleAppTryCatch" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,7 +16,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.DailyReportAssignment PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
