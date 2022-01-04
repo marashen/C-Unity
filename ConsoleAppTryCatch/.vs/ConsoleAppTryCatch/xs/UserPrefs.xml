@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{E8B41EE3-AFC7-42A4-A7ED-73DF220EBE33}|Default">
-  <MonoDevelop.Ide.ItemProperties.ConsoleAppTryCatch FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleAppTryCatch PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppTryCatch/Program.cs">
     <Files>
-      <File FileName="ConsoleAppTryCatch/Program.cs" Line="3" Column="1" />
+      <File FileName="ConsoleAppTryCatch/Program.cs" Line="59" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

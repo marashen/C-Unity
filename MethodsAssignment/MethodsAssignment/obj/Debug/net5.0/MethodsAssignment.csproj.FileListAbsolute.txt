@@ -1,0 +1,15 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsAssignment/MethodsAssignment/bin/Debug/net5.0/MethodsAssignment.deps.json
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsAssignment/MethodsAssignment/bin/Debug/net5.0/MethodsAssignment.runtimeconfig.json
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsAssignment/MethodsAssignment/bin/Debug/net5.0/MethodsAssignment.runtimeconfig.dev.json
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsAssignment/MethodsAssignment/bin/Debug/net5.0/MethodsAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsAssignment/MethodsAssignment/bin/Debug/net5.0/ref/MethodsAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsAssignment/MethodsAssignment/bin/Debug/net5.0/MethodsAssignment.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsAssignment/MethodsAssignment/obj/Debug/net5.0/MethodsAssignment.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsAssignment/MethodsAssignment/obj/Debug/net5.0/MethodsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsAssignment/MethodsAssignment/obj/Debug/net5.0/MethodsAssignment.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsAssignment/MethodsAssignment/obj/Debug/net5.0/MethodsAssignment.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsAssignment/MethodsAssignment/obj/Debug/net5.0/MethodsAssignment.csproj.CoreCompileInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsAssignment/MethodsAssignment/obj/Debug/net5.0/MethodsAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsAssignment/MethodsAssignment/obj/Debug/net5.0/ref/MethodsAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsAssignment/MethodsAssignment/obj/Debug/net5.0/MethodsAssignment.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsAssignment/MethodsAssignment/obj/Debug/net5.0/MethodsAssignment.genruntimeconfig.cache
