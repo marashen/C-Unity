@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{10C54E10-B3D6-4E74-BBA3-5B73A57FE4C2}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BranchingAssignment/Program.cs">
+﻿<Properties StartupConfiguration="{E10F85BC-8BED-436B-9DE7-1A135BB06778}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleAppAssignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppAssignment/Program.cs">
     <Files>
-      <File FileName="BranchingAssignment/Program.cs" Line="1" Column="1" />
+      <File FileName="ConsoleAppAssignment/Program.cs" Line="15" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BranchingAssignment" expanded="True">
-            <Node name="BranchingAssignment" expanded="True">
+          <Node name="ConsoleAppAssignment" expanded="True">
+            <Node name="ConsoleAppAssignment" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,7 +16,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.BranchingAssignment PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

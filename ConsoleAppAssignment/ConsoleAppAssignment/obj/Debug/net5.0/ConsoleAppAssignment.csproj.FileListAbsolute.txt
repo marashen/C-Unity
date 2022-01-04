@@ -1,0 +1,15 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppAssignment/ConsoleAppAssignment/bin/Debug/net5.0/ConsoleAppAssignment.deps.json
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppAssignment/ConsoleAppAssignment/bin/Debug/net5.0/ConsoleAppAssignment.runtimeconfig.json
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppAssignment/ConsoleAppAssignment/bin/Debug/net5.0/ConsoleAppAssignment.runtimeconfig.dev.json
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppAssignment/ConsoleAppAssignment/bin/Debug/net5.0/ConsoleAppAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppAssignment/ConsoleAppAssignment/bin/Debug/net5.0/ref/ConsoleAppAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppAssignment/ConsoleAppAssignment/bin/Debug/net5.0/ConsoleAppAssignment.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppAssignment/ConsoleAppAssignment/obj/Debug/net5.0/ConsoleAppAssignment.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppAssignment/ConsoleAppAssignment/obj/Debug/net5.0/ConsoleAppAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppAssignment/ConsoleAppAssignment/obj/Debug/net5.0/ConsoleAppAssignment.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppAssignment/ConsoleAppAssignment/obj/Debug/net5.0/ConsoleAppAssignment.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppAssignment/ConsoleAppAssignment/obj/Debug/net5.0/ConsoleAppAssignment.csproj.CoreCompileInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppAssignment/ConsoleAppAssignment/obj/Debug/net5.0/ConsoleAppAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppAssignment/ConsoleAppAssignment/obj/Debug/net5.0/ref/ConsoleAppAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppAssignment/ConsoleAppAssignment/obj/Debug/net5.0/ConsoleAppAssignment.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/ConsoleAppAssignment/ConsoleAppAssignment/obj/Debug/net5.0/ConsoleAppAssignment.genruntimeconfig.cache
