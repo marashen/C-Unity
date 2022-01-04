@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{CF9C6545-ED3A-4C5D-9CF4-C1C34CF912E6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MethodsAssignment/Program.cs">
+﻿<Properties StartupConfiguration="{5EAFAEBB-0774-44DB-BA1B-41289CCD7B3E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MethodsUserInput/Program.cs">
     <Files>
-      <File FileName="MethodsAssignment/Program.cs" Line="1" Column="1" />
-      <File FileName="MethodsAssignment/health.cs" />
+      <File FileName="MethodsUserInput/Program.cs" Line="91" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MethodsAssignment" expanded="True">
-            <Node name="MethodsAssignment" expanded="True">
+          <Node name="MethodsUserInput" expanded="True">
+            <Node name="MethodsUserInput" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,8 +15,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MethodsUserInput FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.MethodsAssignment PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

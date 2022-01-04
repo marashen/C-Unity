@@ -1,0 +1,15 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsUserInput/MethodsUserInput/bin/Debug/net5.0/MethodsUserInput.deps.json
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsUserInput/MethodsUserInput/bin/Debug/net5.0/MethodsUserInput.runtimeconfig.json
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsUserInput/MethodsUserInput/bin/Debug/net5.0/MethodsUserInput.runtimeconfig.dev.json
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsUserInput/MethodsUserInput/bin/Debug/net5.0/MethodsUserInput.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsUserInput/MethodsUserInput/bin/Debug/net5.0/ref/MethodsUserInput.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsUserInput/MethodsUserInput/bin/Debug/net5.0/MethodsUserInput.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsUserInput/MethodsUserInput/obj/Debug/net5.0/MethodsUserInput.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsUserInput/MethodsUserInput/obj/Debug/net5.0/MethodsUserInput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsUserInput/MethodsUserInput/obj/Debug/net5.0/MethodsUserInput.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsUserInput/MethodsUserInput/obj/Debug/net5.0/MethodsUserInput.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsUserInput/MethodsUserInput/obj/Debug/net5.0/MethodsUserInput.csproj.CoreCompileInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsUserInput/MethodsUserInput/obj/Debug/net5.0/MethodsUserInput.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsUserInput/MethodsUserInput/obj/Debug/net5.0/ref/MethodsUserInput.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsUserInput/MethodsUserInput/obj/Debug/net5.0/MethodsUserInput.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/MethodsUserInput/MethodsUserInput/obj/Debug/net5.0/MethodsUserInput.genruntimeconfig.cache
