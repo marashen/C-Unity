@@ -3,8 +3,8 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="MethodsObjects/Program.cs">
     <Files>
       <File FileName="MethodsObjects/Program.cs" Line="10" Column="20" IsPinned="True" />
-      <File FileName="Persons.cs" Line="15" Column="2" />
-      <File FileName="Employees.cs" Line="7" Column="6" />
+      <File FileName="Persons.cs" />
+      <File FileName="Employees.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

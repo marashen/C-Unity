@@ -1,0 +1,15 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/MathAndOperatorsAssignment/MathAndOperatorsAssignment/bin/Debug/net5.0/MathAndOperatorsAssignment.deps.json
+/Users/josephcolon/Documents/GitHub/C-Unity/MathAndOperatorsAssignment/MathAndOperatorsAssignment/bin/Debug/net5.0/MathAndOperatorsAssignment.runtimeconfig.json
+/Users/josephcolon/Documents/GitHub/C-Unity/MathAndOperatorsAssignment/MathAndOperatorsAssignment/bin/Debug/net5.0/MathAndOperatorsAssignment.runtimeconfig.dev.json
+/Users/josephcolon/Documents/GitHub/C-Unity/MathAndOperatorsAssignment/MathAndOperatorsAssignment/bin/Debug/net5.0/MathAndOperatorsAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MathAndOperatorsAssignment/MathAndOperatorsAssignment/bin/Debug/net5.0/ref/MathAndOperatorsAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MathAndOperatorsAssignment/MathAndOperatorsAssignment/bin/Debug/net5.0/MathAndOperatorsAssignment.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/MathAndOperatorsAssignment/MathAndOperatorsAssignment/obj/Debug/net5.0/MathAndOperatorsAssignment.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/MathAndOperatorsAssignment/MathAndOperatorsAssignment/obj/Debug/net5.0/MathAndOperatorsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/MathAndOperatorsAssignment/MathAndOperatorsAssignment/obj/Debug/net5.0/MathAndOperatorsAssignment.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/MathAndOperatorsAssignment/MathAndOperatorsAssignment/obj/Debug/net5.0/MathAndOperatorsAssignment.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/MathAndOperatorsAssignment/MathAndOperatorsAssignment/obj/Debug/net5.0/MathAndOperatorsAssignment.csproj.CoreCompileInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/MathAndOperatorsAssignment/MathAndOperatorsAssignment/obj/Debug/net5.0/MathAndOperatorsAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MathAndOperatorsAssignment/MathAndOperatorsAssignment/obj/Debug/net5.0/ref/MathAndOperatorsAssignment.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MathAndOperatorsAssignment/MathAndOperatorsAssignment/obj/Debug/net5.0/MathAndOperatorsAssignment.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/MathAndOperatorsAssignment/MathAndOperatorsAssignment/obj/Debug/net5.0/MathAndOperatorsAssignment.genruntimeconfig.cache

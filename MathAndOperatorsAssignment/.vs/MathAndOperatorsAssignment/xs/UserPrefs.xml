@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{796B47A7-F4AD-4C91-9BA8-E2184EACB457}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="MathAndOperatorsAssignment/Program.cs">
     <Files>
-      <File FileName="MathAndOperatorsAssignment/Program.cs" Line="28" Column="28" />
+      <File FileName="MathAndOperatorsAssignment/Program.cs" Line="12" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.MathAndOperatorsAssignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MathAndOperatorsAssignment PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
