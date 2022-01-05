@@ -9,21 +9,6 @@ namespace MethodsObjects
 {
     class MainClass
     {
-        public class Person
-        {
-            public string FirstName;
-            public string LastName;
-            public bool HasPet;
-
-            public void SayName()
-            {
-                Console.WriteLine("Name: " + FirstName + " " + LastName);
-            }
-        }
-     class Employee : Person
-        {
-            public int emId;
-        }
      public static void Main(string[] args)
         {
             Employee John = new Employee();
