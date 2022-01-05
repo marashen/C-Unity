@@ -1,0 +1,15 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreMethods/MoreMethods/obj/Debug/net5.0/MoreMethods.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreMethods/MoreMethods/obj/Debug/net5.0/MoreMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreMethods/MoreMethods/obj/Debug/net5.0/MoreMethods.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreMethods/MoreMethods/obj/Debug/net5.0/MoreMethods.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreMethods/MoreMethods/obj/Debug/net5.0/MoreMethods.csproj.CoreCompileInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreMethods/MoreMethods/bin/Debug/net5.0/MoreMethods.deps.json
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreMethods/MoreMethods/bin/Debug/net5.0/MoreMethods.runtimeconfig.json
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreMethods/MoreMethods/bin/Debug/net5.0/MoreMethods.runtimeconfig.dev.json
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreMethods/MoreMethods/bin/Debug/net5.0/MoreMethods.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreMethods/MoreMethods/bin/Debug/net5.0/ref/MoreMethods.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreMethods/MoreMethods/bin/Debug/net5.0/MoreMethods.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreMethods/MoreMethods/obj/Debug/net5.0/MoreMethods.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreMethods/MoreMethods/obj/Debug/net5.0/ref/MoreMethods.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreMethods/MoreMethods/obj/Debug/net5.0/MoreMethods.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreMethods/MoreMethods/obj/Debug/net5.0/MoreMethods.genruntimeconfig.cache
