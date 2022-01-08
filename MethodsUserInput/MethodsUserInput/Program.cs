@@ -17,44 +17,53 @@ namespace Equations
             int round = 1;
             Console.Write("Please enter Players desired Firerate, or how many bullets per second they will fire. Recommended ranges are between 1-20. (whole numbers only): ");
             string firerateIn = Console.ReadLine();
+            Console.Write("Please enter Players desired trigger delay, or how much time between shots. (Optional, for burst weapons!). (whole numbers only): ");
+            Console.ReadLine();
             double firerate = Convert.ToInt32(firerateIn);
             double bps = firerate;
             double fps = 1 / firerate;
+            Console.WriteLine("Trigger Delay based on Firerate and User Input: " + fps);
             Thread.Sleep(1000);
             Console.Write("Please enter Players desired Damage per Second. Recommended ranges are between 40-200. (whole numbers only): ");
             string dpsIn = Console.ReadLine();
             int dps = Convert.ToInt32(dpsIn);
             Thread.Sleep(1000);
-            Console.Write("Please enter Players desired Base Damage Multiplier. Recommended ranges are between 1-50. (whole numbers only): ");
+            Console.Write("Please enter Players desired Base Damage Multiplier. Recommended ranges are between .10-50. (decimals allowed): ");
             string dmgbaseIn = Console.ReadLine();
-            double dmgbase = Convert.ToInt32(dmgbaseIn);
+            double dmgbase = Convert.ToDouble(dmgbaseIn);
             Thread.Sleep(1000);
-            Console.Write("Please enter Players desired Upgraded Damage Multiplier. Recommended ranges are between 12-1500. (whole numbers only): ");
+            Console.Write("Please enter Players desired Upgraded Damage Multiplier. Recommended ranges are between 12-1500. (decimals allowed): ");
             string dmgboostIn = Console.ReadLine();
-            double dmgboost = Convert.ToInt32(dmgboostIn);
+            double dmgboost = Convert.ToDouble(dmgboostIn);
             Thread.Sleep(1000);
-            Console.Write("Please enter Players desired Enemy Health Regression. Recommended ranges are between 100 & 200. The closer to 200, the faster Enemies gain Health. (whole numbers only): ");
-            string hpsIn = Console.ReadLine();
-            double hpsWhole = Convert.ToInt32(hpsIn);
-            double hps = hpsWhole * .01;
-            Thread.Sleep(1000);
-            Console.Write("Please enter the desired Program Speed you wish to run. Enter a Value between 100 & 3000. (whole numbers only): ");
-            string timersIn = Console.ReadLine();
-            int timers = Convert.ToInt32(timersIn);
-            Thread.Sleep(1000);
-
-            while (health <= 125000)
+            while (round <= 50)
             {
-                double dmgrec = 1800 / round;
-                double dmgmulti = dmgrec / 100;
-                health = 1250 * (-.05 + Math.Pow(hps, round - 10));
-                Console.WriteLine("Round " + round + " " + health);
-                basedmg(health, dmgmulti, firerate, dps, dmgbase, fps, bps);
-                health = 1250 * (.0129 + Math.Pow(hps, round - 10));
-                boostdmg(health, dmgmulti, firerate, dps, dmgboost, fps, bps);
-                health = 1250 * (.0129 + Math.Pow(hps, round - 10));
-                Thread.Sleep(timers);
-                round += 1;
+                if (round <= 30)
+                {
+                    double dmgrec = 1800 / round;
+                    double dmgmulti = dmgrec / 100;
+                    health = 1250 * (-0.054217728 + Math.Pow(1.25, round - 10));
+                    Console.WriteLine("Round " + round + " " + health);
+                    basedmg(health, dmgmulti, firerate, dps, dmgbase, fps, bps);
+                    health = 1250 * (-0.054217728 + Math.Pow(1.25, round - 10));
+                    boostdmg(health, dmgmulti, firerate, dps, dmgboost, fps, bps);
+                    health = 1250 * (-0.054217728 + Math.Pow(1.25, round - 10));
+                    Thread.Sleep(500);
+                    round += 1;
+                }
+                else
+                {
+                    double dmgrec = 1800 / round;
+                    double dmgmulti = dmgrec / 100;
+                    health = 125000;
+                    Console.WriteLine("Round " + round + " " + health);
+                    basedmg(health, dmgmulti, firerate, dps, dmgbase, fps, bps);
+                    health = 125000;
+                    boostdmg(health, dmgmulti, firerate, dps, dmgboost, fps, bps);
+                    health = 125000;
+                    Thread.Sleep(100);
+                    round += 1;
+                }
             }
         }
         static void basedmg(double health, double dmgmulti, double firerate, int dps, double dmgbase, double fps, double bps)
