@@ -1,10 +1,14 @@
-﻿<Properties StartupConfiguration="{290538C8-C379-4E49-A6A4-6B9B84CC751C}|Default">
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{01B4627A-68A1-427C-98AD-1D4BDD07C51B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MoreClasses/Program.cs">
+    <Files>
+      <File FileName="MoreClasses/Program.cs" Line="18" Column="21" />
+      <File FileName="Divide.cs" Line="11" Column="29" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DailyReportAssignment" expanded="True">
-            <Node name="DailyReportAssignment" expanded="True">
+          <Node name="MoreClasses" expanded="True">
+            <Node name="MoreClasses" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -12,7 +16,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.DailyReportAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MoreClasses PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

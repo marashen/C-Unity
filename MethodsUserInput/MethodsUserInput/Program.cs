@@ -47,12 +47,12 @@ namespace Equations
             {
                 double dmgrec = 1800 / round;
                 double dmgmulti = dmgrec / 100;
-                health = 1000 + (50 * (round - 10) + (Math.Pow(hps, round - 10)) + (11 * ((round - 14) * 3.65)));
+                health = 1250 * (-.05 + Math.Pow(hps, round - 10));
                 Console.WriteLine("Round " + round + " " + health);
                 basedmg(health, dmgmulti, firerate, dps, dmgbase, fps, bps);
-                health = 1000 + (50 * (round - 10) + (Math.Pow(hps, round - 10)) + (11 * ((round - 14) * 3.65)));
+                health = 1250 * (.0129 + Math.Pow(hps, round - 10));
                 boostdmg(health, dmgmulti, firerate, dps, dmgboost, fps, bps);
-                health = 1000 + (50 * (round - 10) + (Math.Pow(hps, round - 10)) + (11 * ((round - 14) * 3.65)));
+                health = 1250 * (.0129 + Math.Pow(hps, round - 10));
                 Thread.Sleep(timers);
                 round += 1;
             }

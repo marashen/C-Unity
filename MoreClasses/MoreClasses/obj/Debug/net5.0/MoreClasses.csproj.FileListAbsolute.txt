@@ -1,0 +1,5 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreClasses/MoreClasses/obj/Debug/net5.0/MoreClasses.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreClasses/MoreClasses/obj/Debug/net5.0/MoreClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreClasses/MoreClasses/obj/Debug/net5.0/MoreClasses.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreClasses/MoreClasses/obj/Debug/net5.0/MoreClasses.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/MoreClasses/MoreClasses/obj/Debug/net5.0/MoreClasses.csproj.CoreCompileInputs.cache
