@@ -4,7 +4,7 @@
     {
         public int x;
         public int y;
-        public void DoMath()
+        public void DoMath(int y, int x)
         {
             x += 4;
             Console.WriteLine(y);

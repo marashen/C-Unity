@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{4D5671E2-BD22-45C8-BB39-CC78323AD505}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="MoreMethods/Program.cs">
     <Files>
-      <File FileName="MoreMethods/Program.cs" Line="19" Column="29" />
-      <File FileName="MethMath.cs" Line="3" Column="1" />
+      <File FileName="MoreMethods/Program.cs" Line="21" Column="39" />
+      <File FileName="MethMath.cs" Line="7" Column="41" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

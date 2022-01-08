@@ -15,8 +15,10 @@ namespace MoreMethods
 
             newNum.x = 6;
             newNum.y = 8;
+            int num1 = 1;
+            int num2 = 3;
 
-            newNum.DoMath();
+            newNum.DoMath(num1, num2);
         }
     }
 }
