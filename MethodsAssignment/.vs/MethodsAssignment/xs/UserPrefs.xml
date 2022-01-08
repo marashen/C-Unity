@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{CF9C6545-ED3A-4C5D-9CF4-C1C34CF912E6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MethodsAssignment/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="3Methods.cs">
     <Files>
-      <File FileName="MethodsAssignment/Program.cs" Line="1" Column="1" />
-      <File FileName="MethodsAssignment/health.cs" />
+      <File FileName="MethodsAssignment/Program.cs" Line="14" Column="13" />
+      <File FileName="3Methods.cs" Line="6" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MethodsAssignment" expanded="True">
             <Node name="MethodsAssignment" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="3Methods.cs" selected="True" />
             </Node>
           </Node>
         </State>

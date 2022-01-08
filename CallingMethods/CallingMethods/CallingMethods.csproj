@@ -6,6 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="..\3Methods.cs" />
+    <Compile Include="..\TripleMethods.cs" />
   </ItemGroup>
 </Project>

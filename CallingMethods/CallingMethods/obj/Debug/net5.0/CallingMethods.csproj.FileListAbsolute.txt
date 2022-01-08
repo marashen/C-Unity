@@ -1,0 +1,15 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/CallingMethods/CallingMethods/bin/Debug/net5.0/CallingMethods.deps.json
+/Users/josephcolon/Documents/GitHub/C-Unity/CallingMethods/CallingMethods/bin/Debug/net5.0/CallingMethods.runtimeconfig.json
+/Users/josephcolon/Documents/GitHub/C-Unity/CallingMethods/CallingMethods/bin/Debug/net5.0/CallingMethods.runtimeconfig.dev.json
+/Users/josephcolon/Documents/GitHub/C-Unity/CallingMethods/CallingMethods/bin/Debug/net5.0/CallingMethods.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/CallingMethods/CallingMethods/bin/Debug/net5.0/ref/CallingMethods.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/CallingMethods/CallingMethods/bin/Debug/net5.0/CallingMethods.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/CallingMethods/CallingMethods/obj/Debug/net5.0/CallingMethods.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/CallingMethods/CallingMethods/obj/Debug/net5.0/CallingMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/CallingMethods/CallingMethods/obj/Debug/net5.0/CallingMethods.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/CallingMethods/CallingMethods/obj/Debug/net5.0/CallingMethods.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/CallingMethods/CallingMethods/obj/Debug/net5.0/CallingMethods.csproj.CoreCompileInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/CallingMethods/CallingMethods/obj/Debug/net5.0/CallingMethods.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/CallingMethods/CallingMethods/obj/Debug/net5.0/ref/CallingMethods.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/CallingMethods/CallingMethods/obj/Debug/net5.0/CallingMethods.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/CallingMethods/CallingMethods/obj/Debug/net5.0/CallingMethods.genruntimeconfig.cache
