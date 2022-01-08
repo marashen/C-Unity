@@ -1,0 +1,15 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/MainMethod/MainMethod/bin/Debug/net5.0/MainMethod.deps.json
+/Users/josephcolon/Documents/GitHub/C-Unity/MainMethod/MainMethod/bin/Debug/net5.0/MainMethod.runtimeconfig.json
+/Users/josephcolon/Documents/GitHub/C-Unity/MainMethod/MainMethod/bin/Debug/net5.0/MainMethod.runtimeconfig.dev.json
+/Users/josephcolon/Documents/GitHub/C-Unity/MainMethod/MainMethod/bin/Debug/net5.0/MainMethod.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MainMethod/MainMethod/bin/Debug/net5.0/ref/MainMethod.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MainMethod/MainMethod/bin/Debug/net5.0/MainMethod.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/MainMethod/MainMethod/obj/Debug/net5.0/MainMethod.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/MainMethod/MainMethod/obj/Debug/net5.0/MainMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/MainMethod/MainMethod/obj/Debug/net5.0/MainMethod.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/MainMethod/MainMethod/obj/Debug/net5.0/MainMethod.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/MainMethod/MainMethod/obj/Debug/net5.0/MainMethod.csproj.CoreCompileInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/MainMethod/MainMethod/obj/Debug/net5.0/MainMethod.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MainMethod/MainMethod/obj/Debug/net5.0/ref/MainMethod.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/MainMethod/MainMethod/obj/Debug/net5.0/MainMethod.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/MainMethod/MainMethod/obj/Debug/net5.0/MainMethod.genruntimeconfig.cache

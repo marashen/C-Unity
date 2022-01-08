@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{ABBCA571-4A8E-4350-AC02-FF6D8EA32672}|Default">
+  <MonoDevelop.Ide.ItemProperties.MainMethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MathClass.cs">
+    <Files>
+      <File FileName="MainMethod/Program.cs" Line="15" Column="38" />
+      <File FileName="MathClass.cs" Line="17" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MainMethod" expanded="True">
+            <Node name="MainMethod" expanded="True">
+              <Node name="MathClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
