@@ -1,0 +1,15 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/ClassSubs/ClassSubs/bin/Debug/net5.0/ClassSubs.deps.json
+/Users/josephcolon/Documents/GitHub/C-Unity/ClassSubs/ClassSubs/bin/Debug/net5.0/ClassSubs.runtimeconfig.json
+/Users/josephcolon/Documents/GitHub/C-Unity/ClassSubs/ClassSubs/bin/Debug/net5.0/ClassSubs.runtimeconfig.dev.json
+/Users/josephcolon/Documents/GitHub/C-Unity/ClassSubs/ClassSubs/bin/Debug/net5.0/ClassSubs.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ClassSubs/ClassSubs/bin/Debug/net5.0/ref/ClassSubs.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ClassSubs/ClassSubs/bin/Debug/net5.0/ClassSubs.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/ClassSubs/ClassSubs/obj/Debug/net5.0/ClassSubs.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/ClassSubs/ClassSubs/obj/Debug/net5.0/ClassSubs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/ClassSubs/ClassSubs/obj/Debug/net5.0/ClassSubs.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/ClassSubs/ClassSubs/obj/Debug/net5.0/ClassSubs.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/ClassSubs/ClassSubs/obj/Debug/net5.0/ClassSubs.csproj.CoreCompileInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/ClassSubs/ClassSubs/obj/Debug/net5.0/ClassSubs.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ClassSubs/ClassSubs/obj/Debug/net5.0/ref/ClassSubs.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ClassSubs/ClassSubs/obj/Debug/net5.0/ClassSubs.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/ClassSubs/ClassSubs/obj/Debug/net5.0/ClassSubs.genruntimeconfig.cache
