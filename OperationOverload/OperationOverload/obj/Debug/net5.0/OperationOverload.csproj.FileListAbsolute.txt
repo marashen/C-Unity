@@ -1,0 +1,15 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/OperationOverload/OperationOverload/bin/Debug/net5.0/OperationOverload.deps.json
+/Users/josephcolon/Documents/GitHub/C-Unity/OperationOverload/OperationOverload/bin/Debug/net5.0/OperationOverload.runtimeconfig.json
+/Users/josephcolon/Documents/GitHub/C-Unity/OperationOverload/OperationOverload/bin/Debug/net5.0/OperationOverload.runtimeconfig.dev.json
+/Users/josephcolon/Documents/GitHub/C-Unity/OperationOverload/OperationOverload/bin/Debug/net5.0/OperationOverload.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/OperationOverload/OperationOverload/bin/Debug/net5.0/ref/OperationOverload.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/OperationOverload/OperationOverload/bin/Debug/net5.0/OperationOverload.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/OperationOverload/OperationOverload/obj/Debug/net5.0/OperationOverload.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/OperationOverload/OperationOverload/obj/Debug/net5.0/OperationOverload.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/OperationOverload/OperationOverload/obj/Debug/net5.0/OperationOverload.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/OperationOverload/OperationOverload/obj/Debug/net5.0/OperationOverload.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/OperationOverload/OperationOverload/obj/Debug/net5.0/OperationOverload.csproj.CoreCompileInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/OperationOverload/OperationOverload/obj/Debug/net5.0/OperationOverload.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/OperationOverload/OperationOverload/obj/Debug/net5.0/ref/OperationOverload.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/OperationOverload/OperationOverload/obj/Debug/net5.0/OperationOverload.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/OperationOverload/OperationOverload/obj/Debug/net5.0/OperationOverload.genruntimeconfig.cache
