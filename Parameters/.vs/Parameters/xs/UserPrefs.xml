@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2D57E09E-3D77-447A-9D44-C6F8AB0A0110}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Parameters/Program.cs">
+    <Files>
+      <File FileName="Parameters/Program.cs" Line="20" Column="14" />
+      <File FileName="Paralax.cs" Line="11" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Parameters" expanded="True">
+            <Node name="Parameters" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Parameters PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

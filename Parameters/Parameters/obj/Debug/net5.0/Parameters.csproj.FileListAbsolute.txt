@@ -1,0 +1,15 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/Parameters/Parameters/bin/Debug/net5.0/Parameters.deps.json
+/Users/josephcolon/Documents/GitHub/C-Unity/Parameters/Parameters/bin/Debug/net5.0/Parameters.runtimeconfig.json
+/Users/josephcolon/Documents/GitHub/C-Unity/Parameters/Parameters/bin/Debug/net5.0/Parameters.runtimeconfig.dev.json
+/Users/josephcolon/Documents/GitHub/C-Unity/Parameters/Parameters/bin/Debug/net5.0/Parameters.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/Parameters/Parameters/bin/Debug/net5.0/ref/Parameters.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/Parameters/Parameters/bin/Debug/net5.0/Parameters.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/Parameters/Parameters/obj/Debug/net5.0/Parameters.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/Parameters/Parameters/obj/Debug/net5.0/Parameters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/Parameters/Parameters/obj/Debug/net5.0/Parameters.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/Parameters/Parameters/obj/Debug/net5.0/Parameters.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/Parameters/Parameters/obj/Debug/net5.0/Parameters.csproj.CoreCompileInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/Parameters/Parameters/obj/Debug/net5.0/Parameters.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/Parameters/Parameters/obj/Debug/net5.0/ref/Parameters.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/Parameters/Parameters/obj/Debug/net5.0/Parameters.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/Parameters/Parameters/obj/Debug/net5.0/Parameters.genruntimeconfig.cache
