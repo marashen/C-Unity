@@ -1,0 +1,15 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/AbstractClass/AbstractClass/bin/Debug/net5.0/AbstractClass.deps.json
+/Users/josephcolon/Documents/GitHub/C-Unity/AbstractClass/AbstractClass/bin/Debug/net5.0/AbstractClass.runtimeconfig.json
+/Users/josephcolon/Documents/GitHub/C-Unity/AbstractClass/AbstractClass/bin/Debug/net5.0/AbstractClass.runtimeconfig.dev.json
+/Users/josephcolon/Documents/GitHub/C-Unity/AbstractClass/AbstractClass/bin/Debug/net5.0/AbstractClass.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/AbstractClass/AbstractClass/bin/Debug/net5.0/ref/AbstractClass.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/AbstractClass/AbstractClass/bin/Debug/net5.0/AbstractClass.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/AbstractClass/AbstractClass/obj/Debug/net5.0/AbstractClass.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/AbstractClass/AbstractClass/obj/Debug/net5.0/AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/AbstractClass/AbstractClass/obj/Debug/net5.0/AbstractClass.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/AbstractClass/AbstractClass/obj/Debug/net5.0/AbstractClass.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/AbstractClass/AbstractClass/obj/Debug/net5.0/AbstractClass.csproj.CoreCompileInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/AbstractClass/AbstractClass/obj/Debug/net5.0/AbstractClass.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/AbstractClass/AbstractClass/obj/Debug/net5.0/ref/AbstractClass.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/AbstractClass/AbstractClass/obj/Debug/net5.0/AbstractClass.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/AbstractClass/AbstractClass/obj/Debug/net5.0/AbstractClass.genruntimeconfig.cache
