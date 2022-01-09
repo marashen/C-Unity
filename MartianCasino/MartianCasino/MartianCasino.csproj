@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\UserInfo.cs" />
+    <Compile Include="..\gamerunner.cs" />
+    <Compile Include="..\abstract1.cs" />
+    <Compile Include="..\dealer.cs" />
+    <Compile Include="..\TwentyOneDealer.cs" />
+    <Compile Include="..\TwentyOneRules.cs" />
+    <Compile Include="..\cards.cs" />
+  </ItemGroup>
+</Project>

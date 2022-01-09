@@ -1,0 +1,15 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/DatetimeSubs/DatetimeSubs/obj/Debug/net5.0/DatetimeSubs.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/DatetimeSubs/DatetimeSubs/obj/Debug/net5.0/DatetimeSubs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/DatetimeSubs/DatetimeSubs/obj/Debug/net5.0/DatetimeSubs.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/DatetimeSubs/DatetimeSubs/obj/Debug/net5.0/DatetimeSubs.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/DatetimeSubs/DatetimeSubs/obj/Debug/net5.0/DatetimeSubs.csproj.CoreCompileInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/DatetimeSubs/DatetimeSubs/bin/Debug/net5.0/DatetimeSubs.deps.json
+/Users/josephcolon/Documents/GitHub/C-Unity/DatetimeSubs/DatetimeSubs/bin/Debug/net5.0/DatetimeSubs.runtimeconfig.json
+/Users/josephcolon/Documents/GitHub/C-Unity/DatetimeSubs/DatetimeSubs/bin/Debug/net5.0/DatetimeSubs.runtimeconfig.dev.json
+/Users/josephcolon/Documents/GitHub/C-Unity/DatetimeSubs/DatetimeSubs/bin/Debug/net5.0/DatetimeSubs.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/DatetimeSubs/DatetimeSubs/bin/Debug/net5.0/ref/DatetimeSubs.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/DatetimeSubs/DatetimeSubs/bin/Debug/net5.0/DatetimeSubs.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/DatetimeSubs/DatetimeSubs/obj/Debug/net5.0/DatetimeSubs.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/DatetimeSubs/DatetimeSubs/obj/Debug/net5.0/ref/DatetimeSubs.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/DatetimeSubs/DatetimeSubs/obj/Debug/net5.0/DatetimeSubs.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/DatetimeSubs/DatetimeSubs/obj/Debug/net5.0/DatetimeSubs.genruntimeconfig.cache
