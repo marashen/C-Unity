@@ -1,0 +1,15 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/ParsingEnums/ParsingEnums/bin/Debug/net5.0/ParsingEnums.deps.json
+/Users/josephcolon/Documents/GitHub/C-Unity/ParsingEnums/ParsingEnums/bin/Debug/net5.0/ParsingEnums.runtimeconfig.json
+/Users/josephcolon/Documents/GitHub/C-Unity/ParsingEnums/ParsingEnums/bin/Debug/net5.0/ParsingEnums.runtimeconfig.dev.json
+/Users/josephcolon/Documents/GitHub/C-Unity/ParsingEnums/ParsingEnums/bin/Debug/net5.0/ParsingEnums.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ParsingEnums/ParsingEnums/bin/Debug/net5.0/ref/ParsingEnums.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ParsingEnums/ParsingEnums/bin/Debug/net5.0/ParsingEnums.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/ParsingEnums/ParsingEnums/obj/Debug/net5.0/ParsingEnums.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/ParsingEnums/ParsingEnums/obj/Debug/net5.0/ParsingEnums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/ParsingEnums/ParsingEnums/obj/Debug/net5.0/ParsingEnums.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/ParsingEnums/ParsingEnums/obj/Debug/net5.0/ParsingEnums.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/ParsingEnums/ParsingEnums/obj/Debug/net5.0/ParsingEnums.csproj.CoreCompileInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/ParsingEnums/ParsingEnums/obj/Debug/net5.0/ParsingEnums.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ParsingEnums/ParsingEnums/obj/Debug/net5.0/ref/ParsingEnums.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/ParsingEnums/ParsingEnums/obj/Debug/net5.0/ParsingEnums.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/ParsingEnums/ParsingEnums/obj/Debug/net5.0/ParsingEnums.genruntimeconfig.cache
