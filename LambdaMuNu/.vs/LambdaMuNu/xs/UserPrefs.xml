@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{E8970B88-D754-4FA6-B0ED-6B0118BF278B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApp6/Program.cs">
+﻿<Properties StartupConfiguration="{197D5BA1-F6A7-4EAB-96DE-5F3A2B5B21FF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LambdaMuNu/Program.cs">
     <Files>
-      <File FileName="ConsoleApp6/Program.cs" Line="35" Column="6" />
+      <File FileName="LambdaMuNu/Program.cs" Line="75" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ConsoleApp6" expanded="True">
-            <Node name="ConsoleApp6" expanded="True">
+          <Node name="LambdaMuNu" expanded="True">
+            <Node name="LambdaMuNu" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ConsoleApp6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.LambdaMuNu PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

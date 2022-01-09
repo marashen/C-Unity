@@ -1,0 +1,15 @@
+/Users/josephcolon/Documents/GitHub/C-Unity/LambdaMuNu/LambdaMuNu/bin/Debug/net5.0/LambdaMuNu.deps.json
+/Users/josephcolon/Documents/GitHub/C-Unity/LambdaMuNu/LambdaMuNu/bin/Debug/net5.0/LambdaMuNu.runtimeconfig.json
+/Users/josephcolon/Documents/GitHub/C-Unity/LambdaMuNu/LambdaMuNu/bin/Debug/net5.0/LambdaMuNu.runtimeconfig.dev.json
+/Users/josephcolon/Documents/GitHub/C-Unity/LambdaMuNu/LambdaMuNu/bin/Debug/net5.0/LambdaMuNu.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/LambdaMuNu/LambdaMuNu/bin/Debug/net5.0/ref/LambdaMuNu.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/LambdaMuNu/LambdaMuNu/bin/Debug/net5.0/LambdaMuNu.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/LambdaMuNu/LambdaMuNu/obj/Debug/net5.0/LambdaMuNu.csproj.AssemblyReference.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/LambdaMuNu/LambdaMuNu/obj/Debug/net5.0/LambdaMuNu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcolon/Documents/GitHub/C-Unity/LambdaMuNu/LambdaMuNu/obj/Debug/net5.0/LambdaMuNu.AssemblyInfoInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/LambdaMuNu/LambdaMuNu/obj/Debug/net5.0/LambdaMuNu.AssemblyInfo.cs
+/Users/josephcolon/Documents/GitHub/C-Unity/LambdaMuNu/LambdaMuNu/obj/Debug/net5.0/LambdaMuNu.csproj.CoreCompileInputs.cache
+/Users/josephcolon/Documents/GitHub/C-Unity/LambdaMuNu/LambdaMuNu/obj/Debug/net5.0/LambdaMuNu.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/LambdaMuNu/LambdaMuNu/obj/Debug/net5.0/ref/LambdaMuNu.dll
+/Users/josephcolon/Documents/GitHub/C-Unity/LambdaMuNu/LambdaMuNu/obj/Debug/net5.0/LambdaMuNu.pdb
+/Users/josephcolon/Documents/GitHub/C-Unity/LambdaMuNu/LambdaMuNu/obj/Debug/net5.0/LambdaMuNu.genruntimeconfig.cache

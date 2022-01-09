@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{006F355A-4371-4458-9BAF-549442944541}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractClass/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="abstractical.cs">
     <Files>
       <File FileName="AbstractClass/Program.cs" Line="14" Column="10" />
-      <File FileName="abstractical.cs" />
+      <File FileName="abstractical.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AbstractClass" expanded="True">
             <Node name="AbstractClass" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="abstractical.cs" selected="True" />
             </Node>
           </Node>
         </State>
