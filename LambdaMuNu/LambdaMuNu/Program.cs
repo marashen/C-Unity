@@ -14,6 +14,7 @@ namespace LambdaOmicron
             List<int> empid2 = new List<int>(10);
             List<string> joeschmo = new List<string>(2);
             List<int> oclock = new List<int>(5);
+            List<int[]> oclockV = new List<int[]>(5);
             employees.Add("Joe");
             employees.Add("Hannah");
             employees.Add("Izzy");
@@ -46,8 +47,29 @@ namespace LambdaOmicron
                 }
                 employees2.Add(i);
             }
+            var zeta = new List<int[]>
+            {
+                new[] { 6, 7, 8, 9, 10 }
+            };
+
+            var iota =
+                from zetaS in zeta
+                where zetaS.Count(n => n > 0) > 5
+                select zetaS;
+
+            foreach (var zetaS in iota)
+            {
+                oclockV.Add(zetaS);
+            }
             foreach (int j in empid)
             {
+                int delta = j;
+                List<int> list = empid.FindAll(e => (e > 5)).Take(5).ToList();
+                for (int i = 0; i < list.Count; i++)
+                {
+                    int greater = list[i];
+                    oclock.Add(greater);
+                }
                 Console.WriteLine("-    " + j);
                 if (j <= 5)
                 {
