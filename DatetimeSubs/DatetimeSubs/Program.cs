@@ -21,9 +21,13 @@ namespace DatetimeSubs
             }
             Console.WriteLine("Choose a number!");
             int userDate = Convert.ToInt32(Console.ReadLine());
-            var dt8 = DateTime.Now.TimeOfDay;
-            TimeSpan dt9 = new TimeSpan(0, userDate, userDate, userDate);
-            Console.WriteLine(dt8 + dt9);
+            int dts = DateTime.Now.TimeOfDay.Seconds;
+            int dtm = DateTime.Now.TimeOfDay.Minutes;
+            int dth = DateTime.Now.TimeOfDay.Hours;
+            TimeSpan cT = new TimeSpan(dth, dtm, dts);
+            Console.WriteLine("Current Time is " + cT);
+            TimeSpan dt9 = new TimeSpan(dth + userDate, dtm, dts);
+            Console.WriteLine(dt9);
         }
     }
 }
