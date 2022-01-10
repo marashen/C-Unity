@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{99B3B792-B56B-416E-A789-5230E1CF8132}|Default">
   <MonoDevelop.Ide.ItemProperties.ClassSubs PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ClassSubs/ClassyMath.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassSubs/Program.cs">
     <Files>
-      <File FileName="ClassSubs/Program.cs" Line="8" Column="10" />
+      <File FileName="ClassSubs/Program.cs" Line="37" Column="67" />
       <File FileName="ClassSubs/ClassyMath.cs" Line="11" Column="65" />
     </Files>
     <Pads>
@@ -10,7 +10,7 @@
         <State name="__root__">
           <Node name="ClassSubs" expanded="True">
             <Node name="ClassSubs" expanded="True">
-              <Node name="ClassyMath.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
