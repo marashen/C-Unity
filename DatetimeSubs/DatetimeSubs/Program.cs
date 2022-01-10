@@ -21,7 +21,7 @@ namespace DatetimeSubs
             }
             Console.WriteLine("Choose a number!");
             int userDate = Convert.ToInt32(Console.ReadLine());
-             DateTime dt8 = new DateTime(2022, 1, 8, 10, 41, 43);
+            var dt8 = DateTime.Now.TimeOfDay;
             TimeSpan dt9 = new TimeSpan(0, userDate, userDate, userDate);
             Console.WriteLine(dt8 + dt9);
         }
