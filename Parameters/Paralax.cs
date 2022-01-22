@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Parameters
 {
@@ -10,8 +11,11 @@ namespace Parameters
     }
     public class Employee<Typists>
     {
-        public Typists things { get; set; }
+        public Typists things
+        {
+            get; set;
+        }
     }
- 
 }
+    
     

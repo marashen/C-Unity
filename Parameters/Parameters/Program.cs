@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Parameters
 {
@@ -18,6 +19,7 @@ namespace Parameters
             {
                 Console.WriteLine(i);
             }
+            Console.WriteLine(type5);
         }
     }
 }
