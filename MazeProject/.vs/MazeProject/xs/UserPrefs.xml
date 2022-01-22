@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{FAE804A2-7D25-06F1-7F6C-26FF456C9809}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MovePOV.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/WinTrigger.cs">
     <Files>
       <File FileName="Assets/MovePOV.cs" Line="28" Column="42" />
+      <File FileName="Assets/WinTrigger.cs" Line="9" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -9,21 +10,16 @@
           <Node name="MazeProject" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True" />
-              <Node name="MovePOV.cs" selected="True" />
+              <Node name="WinTrigger.cs" selected="True" />
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Unity" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f220ecad-783a-407e-bd1e-7d2c6e772326" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="50c9efc2-3aad-4332-bf06-51219a1924b8" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
