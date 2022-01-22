@@ -25,5 +25,13 @@ namespace OperationOverload
             operations.num2 = -operations.num2;
             return operations;
         }
+        public static Employee operator /(Employee a, Employee b)
+        {
+            if (b.num1 == 0)
+            {
+                throw new DivideByZeroException();
+            }
+            return new Employee(a.num1, b.num2);
+        }
     } 
 }
