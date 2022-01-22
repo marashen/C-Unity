@@ -61,28 +61,15 @@ namespace LambdaOmicron
             {
                 oclockV.Add(zetaS);
             }
-            foreach (int j in empid)
-            {
-                int delta = j;
                 List<int> list = empid.FindAll(e => (e > 5)).Take(5).ToList();
                 for (int i = 0; i < list.Count; i++)
                 {
                     int greater = list[i];
                     oclock.Add(greater);
                 }
-                Console.WriteLine("-    " + j);
-                if (j <= 5)
-                {
-                    Console.WriteLine("No > 5's");
-                }
-                else if (j > 5)
-                {
-                    Console.WriteLine("Bigger than 5");
-                    oclock.Add(j);
+                
 
-                }
-                empid2.Add(j);
-            }
+                
             Console.WriteLine("JoeSchmo List:");
             foreach (string b in joeschmo)
             {
