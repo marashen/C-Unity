@@ -24,43 +24,50 @@ namespace ParsingEnums
                 if (weekV == "Sunday" || weekV == "sunday")
                 {
                     Weeks weekly = Weeks.Sunday;
-                    Console.WriteLine(weekly);
+                    string weeklyS = weekly.ToString();
+                    Console.WriteLine(weeklyS);
                     looper -= 1;
                 }
                 else if (weekV == "Monday" || weekV == "monday")
                 {
                     Weeks weekly = Weeks.Monday;
-                    Console.WriteLine(weekly);
+                    string weeklyS = weekly.ToString();
+                    Console.WriteLine(weeklyS);
                     looper -= 1;
                 }
                 else if (weekV == "Tuesday" || weekV == "tuesday")
                 {
                     Weeks weekly = Weeks.Tuesday;
-                    Console.WriteLine(weekly);
+                    string weeklyS = weekly.ToString();
+                    Console.WriteLine(weeklyS);
                     looper -= 1;
                 }
                 else if (weekV == "Wednesday" || weekV == "wednesday")
                 {
                     Weeks weekly = Weeks.Wednesday;
-                    Console.WriteLine(weekly);
+                    string weeklyS = weekly.ToString();
+                    Console.WriteLine(weeklyS);
                     looper -= 1;
                 }
                 else if (weekV == "Thursday" || weekV == "thursday")
                 {
                     Weeks weekly = Weeks.Thursday;
-                    Console.WriteLine(weekly);
+                    string weeklyS = weekly.ToString();
+                    Console.WriteLine(weeklyS);
                     looper -= 1;
                 }
                 else if (weekV == "Friday" || weekV == "friday")
                 {
                     Weeks weekly = Weeks.Friday;
-                    Console.WriteLine(weekly);
+                    string weeklyS = weekly.ToString();
+                    Console.WriteLine(weeklyS);
                     looper -= 1;
                 }
                 else if (weekV == "Saturday" || weekV == "saturday")
                 {
                     Weeks weekly = Weeks.Saturday;
-                    Console.WriteLine(weekly);
+                    string weeklyS = weekly.ToString();
+                    Console.WriteLine(weeklyS);
                     looper -= 1;
                 }
                 else

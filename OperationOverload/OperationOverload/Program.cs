@@ -6,20 +6,20 @@ namespace OperationOverload
     {
         static void Main(string[] args)
         {
-            Operator oper = new Operator(20, 20);
+            Employee oper = new Employee(20, 20);
             oper = -oper;
         }
     }
-    class Operator
+    class Employee
     {
         int num1;
         int num2;
-        public Operator(int num3, int num4)
+        public Employee(int num3, int num4)
         {
             num1 = num3;
             num2 = num4;
         }
-        public static Operator operator -(Operator operations)
+        public static Employee operator -(Employee operations)
         {
             operations.num1 = -operations.num1;
             operations.num2 = -operations.num2;

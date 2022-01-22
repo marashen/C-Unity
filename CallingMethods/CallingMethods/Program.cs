@@ -8,11 +8,12 @@ namespace CallingMethods
         {
             TripleMethods userIn = new TripleMethods();
 
-            Console.WriteLine("Choose a number!");
+            Console.Write("Choose a number!");
             int num1 = Convert.ToInt32(Console.ReadLine());
             userIn.method1(num1);
             userIn.method2(num1);
             userIn.method3(num1);
+            Console.WriteLine(num1);
         }
     }
 }

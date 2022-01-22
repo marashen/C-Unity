@@ -4,17 +4,6 @@
       <File FileName="MethodsAssignment/Program.cs" Line="14" Column="13" />
       <File FileName="3Methods.cs" Line="6" Column="19" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="MethodsAssignment" expanded="True">
-            <Node name="MethodsAssignment" expanded="True">
-              <Node name="3Methods.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.MethodsAssignment PreferredExecutionTarget="MonoDevelop.Default" />

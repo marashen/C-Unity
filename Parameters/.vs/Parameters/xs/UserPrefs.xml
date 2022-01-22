@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{2D57E09E-3D77-447A-9D44-C6F8AB0A0110}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Parameters/Program.cs">
     <Files>
-      <File FileName="Parameters/Program.cs" Line="20" Column="14" />
-      <File FileName="Paralax.cs" Line="11" Column="34" />
+      <File FileName="Parameters/Program.cs" Line="19" Column="38" />
+      <File FileName="Paralax.cs" Line="15" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
