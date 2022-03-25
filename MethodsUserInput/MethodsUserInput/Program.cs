@@ -42,7 +42,7 @@ namespace Equations
                 {
                     double dmgrec = 1800 / round;
                     double dmgmulti = dmgrec / 100;
-                    health = 1250 * (-0.054217728 + Math.Pow(1.25, round - 10));
+                    health = ((8 * round) + (1250 * (-0.054217728 + Math.Pow(1.25, round - 10)))) / ((1800 / round) / 100);
                     Console.WriteLine("Round " + round + " " + health);
                     basedmg(health, dmgmulti, firerate, dps, dmgbase, fps, bps);
                     health = 1250 * (-0.054217728 + Math.Pow(1.25, round - 10));

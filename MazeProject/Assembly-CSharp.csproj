@@ -54,9 +54,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/ball_move.cs" />
-    <Compile Include="Assets/MovePOV.cs" />
-    <Compile Include="Assets/WinLoose.cs" />
-    <Compile Include="Assets/WinTrigger.cs" />
+    <Compile Include="Assets/Scripts/WinTrigger.cs" />
+    <Compile Include="Assets/Scripts/PlayerMovement.cs" />
+    <Compile Include="Assets/Scripts/MainMenu.cs" />
+    <Compile Include="Assets/Scripts/Initialize.cs" />
+    <Compile Include="Assets/Scripts/MusicMenus.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
