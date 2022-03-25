@@ -25,60 +25,39 @@ namespace LambdaOmicron
             employees.Add("Chris");
             employees.Add("Joe");
             employees.Add("Damasen");
+
+            List<string> joeList = new List<string>();
+
+            foreach (string emp in employees)
+            {
+                if (emp == "Joe")
+                {
+                    joeList.Add(emp);
+                }
+            }
+
+            List<string> joeList2 = employees.Where(x => x == "Joe").ToList();
+
             int looper = 1;
             while (looper <= 10)
             {
                 empid.Add(looper);
                 looper++;
             }
-            foreach (string i in employees)
-            {
-                Console.WriteLine("-    " + i);
-                bool duped = employees2.Any(s => s.Contains(i));
-                if (duped == false)
-                {
-                    Console.WriteLine("No Repeats");
-                }
-                else if (duped == true)
-                {
-                    Console.WriteLine("Oh Mr. " + i + "!");
-                    joeschmo.Add(i);
 
-                }
-                employees2.Add(i);
+            List<int> IDList = empid.Where(x => x >= 5).ToList();
+
+            foreach (string i in joeList)
+            {
+                Console.WriteLine(i);
             }
-            var zeta = new List<int[]>
+            foreach (string i2 in joeList2)
             {
-                new[] { 6, 7, 8, 9, 10 }
-            };
-
-            var iota =
-                from zetaS in zeta
-                where zetaS.Count(n => n > 0) > 5
-                select zetaS;
-
-            foreach (var zetaS in iota)
-            {
-                oclockV.Add(zetaS);
+                Console.WriteLine(i2);
             }
-                List<int> list = empid.FindAll(e => (e > 5)).Take(5).ToList();
-                for (int i = 0; i < list.Count; i++)
-                {
-                    int greater = list[i];
-                    oclock.Add(greater);
-                }
-                
-
-                
-            Console.WriteLine("JoeSchmo List:");
-            foreach (string b in joeschmo)
-            {
-                Console.WriteLine(b);
-            }
-            Console.WriteLine("Greater than 5 List");
-            foreach (int a in oclock)
-            {
-                Console.WriteLine(a);
+            foreach (int j in IDList)
+            { 
+                Console.WriteLine(j);
             }
         }
     }
