@@ -2,36 +2,50 @@
 
 namespace OperationOverload
 {
+
+    public class Person
+    {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+    }
+
     class Program
     {
         static void Main(string[] args)
         {
-            Employee oper = new Employee(20, 20);
-            oper = -oper;
+            Employee oper = new Employee();
+            oper.ID = 115;
+
+            Employee oper2 = new Employee();
+            oper2.ID = 114;
+
+            Console.WriteLine(oper.ID == oper2.ID);
         }
     }
-    class Employee
+    class Employee : Person
     {
-        int num1;
-        int num2;
-        public Employee(int num3, int num4)
+        public int ID { get; set; }
+
+        public static bool operator ==(Employee employee, Employee employee2)
         {
-            num1 = num3;
-            num2 = num4;
+            if (employee.ID == employee2.ID)
+                return true;
+            else
+                return employee.ID == employee2.ID;
         }
-        public static Employee operator -(Employee operations)
+
+        public static bool operator !=(Employee employee, Employee employee2)
         {
-            operations.num1 = -operations.num1;
-            operations.num2 = -operations.num2;
-            return operations;
+            return employee.ID != employee2.ID;
         }
-        public static Employee operator ==(Employee a, Employee b)
+
+        public override bool Equals(object obj)
         {
-            return a == b;
+            var emp = obj as Employee;
+            if (emp == null)
+                return false;
+
+            return this.ID.Equals(emp.ID);
         }
-        public static Employee operator != (Employee a, Employee b)
-        {
-            return a != b;
-        }
-    } 
+    }
 }
