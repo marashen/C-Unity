@@ -9,9 +9,9 @@ namespace Parameters
         string lName;
         public abstract void SayName(string fName, string lName);
     }
-    public class Employee<Typists>
+    public class Employee<T>
     {
-        public Typists things
+        public T things
         {
             get; set;
         }
